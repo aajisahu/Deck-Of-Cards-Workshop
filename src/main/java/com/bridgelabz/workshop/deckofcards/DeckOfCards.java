@@ -12,8 +12,8 @@ public class DeckOfCards {
 	 * initialized the size of cards .
 	 */
 
-	String[] suits = {"Clubs", "Diamonds", "Hearts", "Spades"};
-	String[] ranks = {"2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "King", "Queen", "Ace"};
+	public String[] suits = {"Clubs", "Diamonds", "Hearts", "Spades"};
+	public String[] ranks = {"2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "King", "Queen", "Ace"};
 	
 	/*
 	 * 
